@@ -3,7 +3,7 @@
 .AppleDouble
 .LSOverride
 .ipynb_checkpoints
-.twbr
+*.twbr
 
 # Icon must end with two \r
 Icon
